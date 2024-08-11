@@ -1,2 +1,2 @@
 # shoppinglist
-Moved to github.com/tstehr/HamsterList
+Moved to https://github.com/tstehr/HamsterList
